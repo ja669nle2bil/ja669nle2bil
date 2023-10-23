@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ja669nle2bil
 - 👀 I’m interested in nba
 - 🌱 I’m currently learning yes
-- 💞️ I’m looking to collaborate on allegro
+- 💞️ I’m looking to collaborate: Sì
 - 📫 How to reach me: @github 
 
 <!---
