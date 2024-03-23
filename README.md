@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @ja669nle2bil
+- 👋 Hi, I’m ESSYN
 - 👀 I’m interested in nba
 - 🌱 I’m currently learning yes
 - 💞️ I’m looking to collaborate: Sì
 - 📫 How to reach me: @github 
-<p align="left">✨ Creating bugs since 2023<br>🎯 Goals: ALLEGRO🌐 </p>
+<p align="left">✨ Creating bugs since 2022<br>🎯 Goals: TOTW🌐 </p>
 ###
 <h2 align="left">I code with</h2>
 ###
@@ -19,8 +19,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="nestjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
 </div>
