@@ -1,9 +1,9 @@
-- 👋 Hi, I’m ESSYN
-- 👀 I’m interested in nba
-- 🌱 I’m currently learning yes
+- 👋 Hi, I’m Beginner Frontend Dev
+- 👀 I’m interested in Frontend Development, Dev Ops Engineering and Sports ⚽️🏀🏋️‍♀️
+- 🌱 I’m currently learning: TypeScript and Flutter.
 - 💞️ I’m looking to collaborate: Sì
 - 📫 How to reach me: @github 
-<p align="left">✨ Creating bugs since 2022<br>🎯 Goals: TOTW🌐 </p>
+<p align="left">✨ Creating bugs ;) since 2020<br>🎯 Goals: TOTW🌐 && Find a great place to work :) </p>
 ###
 <h2 align="left">I code with</h2>
 ###
