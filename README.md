@@ -1,9 +1,9 @@
-- 👋 Hi, I’m Beginner Frontend Dev
+- 👋 Hi, I’m Beginner Frontend Dev - Jakub Bilinski
 - 👀 I’m interested in Frontend Development, Dev Ops Engineering and Sports ⚽️🏀🏋️‍♀️
-- 🌱 I’m currently learning: TypeScript and Flutter.
-- 💞️ I’m looking to collaborate: Sì
-- 📫 How to reach me: @github 
-<p align="left">✨ Creating bugs ;) since 2020<br>🎯 Goals: TOTW🌐 && Find a great place to work :) </p>
+- 🌱 I’m currently learning: C# and React Native.
+- 💞️ I’m looking to collaborate: Looking for a working spot
+- 📫 How to reach me: @github @linkedin
+<p align="left">✨ Creating bugs ;) since 2020<br>🎯 Goals: 2025-CS Degree && Find a great place to work :) </p>
 ###
 <h2 align="left">I code with</h2>
 ORGANIZATION PROFILE: https://github.com/orgs/pz09-CORVUS-CORAX/repositories
