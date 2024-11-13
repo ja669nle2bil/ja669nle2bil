@@ -6,6 +6,8 @@
 <p align="left">✨ Creating bugs ;) since 2020<br>🎯 Goals: TOTW🌐 && Find a great place to work :) </p>
 ###
 <h2 align="left">I code with</h2>
+ORGANIZATION PROFILE: https://github.com/orgs/pz09-CORVUS-CORAX/repositories
+
 ###
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
